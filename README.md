@@ -61,7 +61,8 @@ Das Ergebnis sollte in etwa so aussehen:
 	- Gib an, welche Interessen du hast und beschreibe dich. 
 	- Gib auch einen Link zu einer Webseite an, die dich besonders interessiert und die du am öftesten öffnest. Gestalte diesen Link (:link, :hover,…) https://www.w3schools.com/html/html_links_colors.asp
 - Informiere dich über das Box-Modell in CSS und besonders über die CSS Angaben „margin“ und „padding“. Gib den Außenabstand zu header und footer mit jeweils 1rem an. (Achtung: NUR oben und unten soll der Abstand sein). 
-	- https://www.w3schools.com/css/css_boxmodel.asp 
+	- https://www.w3schools.com/css/css_boxmodel.asp
+   
 		![](./assets/Pasted%20image%2020250923100506.png)
 	- https://www.w3schools.com/css/css_margin.asp
 - Im Bereich „Motto“ kannst du dein Lebensmotte schreiben. Dieses soll als Überschrift 4 geschrieben sein. Style den Text nach deinen Wünschen (Textgröße, Stil, Schriftart)
