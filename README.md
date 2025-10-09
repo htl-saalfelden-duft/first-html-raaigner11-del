@@ -47,7 +47,7 @@ Das Ergebnis sollte in etwa so aussehen:
 - Dazu lege zuerst eine neue html-Datei an (uebung_css.html).
 - Verlinke diese in deiner Übersichtsseite(index.html) mit dem Menüpunkt **2. CSS**, welche du in Übung 1 erstellt hast
 - Erstelle die Grundstruktur der Seite (Doctype, head, body) und gib ihr den Titel „Eigene Webseite von NAME“.
-- Erstelle einen ``<style>``Bereich im ``<head>``, um die einzelnen Sektionen der Webseite mit CSS zu gestalten.
+- Erstelle eine css-Datei mit Namen style.css und verknüpfe sie im ``<head>``. Nütze diese, um die einzelnen Sektionen der Webseite mit CSS zu gestalten.
 - Im Header-Bereich soll der Name der aktuellen Seite stehen, in unserem Fall die HOME-Seite. Gib diesem Bereich einen Rahmen, zentriere den Inhalt und gib dem Text (Überschrift 1) eine Farbe. Die Farbwahl ist deinem Geschmack überlassen.
   Informiere dich auf folgenden Seiten für die Gestaltung: 
 	- Farben generell: https://www.w3schools.com/css/css_colors.asp
