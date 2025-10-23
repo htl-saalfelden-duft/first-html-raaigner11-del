@@ -1,0 +1,15 @@
+.container{
+    background-color: dodgerblue;
+    padding: 10px;
+    display: flex;
+}
+
+.item{
+    background-color: gold;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid black;
+    line-height: 50px;
+    width: 3em;
+}
